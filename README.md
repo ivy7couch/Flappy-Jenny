@@ -1,4 +1,5 @@
-# Flappy Jenny
+# Programming Design Final Project
+## Flappy Jenny
 
 [Demo](https://www.youtube.com/watch?v=Jaauu5ghbl0)
 
